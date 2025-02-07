@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<meta name="theme-color" content="#2196f3" />
+	<meta property="fb:pages" content="prepseed" />
+	%sapper.base%
+	<meta name="description"
+		content="Prepseed is an AI-powered platform that integrates ERP and CRM systems to streamline operations for educational institutions. Our solution automates functions like finance and inventory while enhancing customer interactions, decision-making, and operational efficiency."/>
+		<link rel="icon" href="https://static.prepseed.com/brand/prepseed/favicon.ico" />
+	<link rel="preconnect" href="https://fonts.gstatic.com" />
+	<link rel="preconnect" href="https://static.prepseed.com" />
+	<link rel="preconnect" href="https://connect.facebook.net" />
+	<!-- Facebook Pixel Code -->
+	<script>
+		!(function (f, b, e, v, n, t, s) {
+			if (f.fbq) return;
+			n = f.fbq = function () {
+				n.callMethod
+					? n.callMethod.apply(n, arguments)
+					: n.queue.push(arguments);
+			};
+			if (!f._fbq) f._fbq = n;
+			n.push = n;
+			n.loaded = !0;
+			n.version = "2.0";
+			n.queue = [];
+			t = b.createElement(e);
+			t.async = !0;
+			t.src = v;
+			s = b.getElementsByTagName(e)[0];
+			setTimeout(function () {
+				s.parentNode.insertBefore(t, s);
+			}, 2000);
+		})(
+			window,
+			document,
+			"script",
+			"https://connect.facebook.net/en_US/fbevents.js"
+		);
+		fbq("init", "211744939877186");
+		fbq("track", "PageView");
+	</script>
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-BN8TZH20V3"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag("js", new Date());
+
+		gtag("config", "G-BN8TZH20V3");
+	</script>
+	<noscript><img height="1" width="1" style="display: none"
+			src="https://www.facebook.com/tr?id=211744939877186&ev=PageView&noscript=1" /></noscript>
+	<!-- End Facebook Pixel Code -->
+
+	<!-- This contains the contents of the <svelte:head> component, if
+	     the current page has one -->
+	%sapper.head% %sapper.scripts%
+
+	<!-- Sapper generates a <style> tag containing critical CSS
+		     for the current page. CSS for the rest of the app is
+		     lazily loaded when it precaches secondary pages -->
+	%sapper.styles%
+</head>
+
+<body id="sapper" class="has-navbar-fixed-top has-navbar-spaced">
+	<!-- The application will be rendered inside this element,
+	     because `src/client.js` references it -->
+
+	%sapper.html%
+
+	<!-- Sapper creates a <script> tag containing `src/client.js`
+	     and anything else it needs to hydrate the app and
+	     initialise the router -->
+</body>
+
+</html>

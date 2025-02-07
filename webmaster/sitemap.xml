@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://www.prepseed.com/</loc>
+
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.prepseed.com/sign-in</loc>
+
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.prepseed.com/success-stories</loc>
+
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.prepseed.com/our-team</loc>
+
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.prepseed.com/create-account</loc>
+
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.prepseed.com/about-us</loc>
+
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.prepseed.com/contact-us</loc>
+
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.prepseed.com/policy</loc>
+
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.prepseed.com/terms</loc>
+
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.prepseed.com/refund-and-cancellation-policy</loc>
+
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.prepseed.com/faq</loc>
+
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.prepseed.com/faq?tag=preparation-portal</loc>
+
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.prepseed.com/faq?tag=preparation-portal&amp;question=all-available-topics-on-portal</loc>
+
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.prepseed.com/faq?tag=preparation-portal&amp;question=what-is-xp</loc>
+
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.prepseed.com/faq?tag=preparation-portal&amp;question=how-daily-goal-works</loc>
+
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.prepseed.com/faq?tag=preparation-portal&amp;question=what-is-streak</loc>
+
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.prepseed.com/faq?tag=preparation-portal&amp;question=can-i-see-questions-attempted-during-practice-sessions</loc>
+
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.prepseed.com/faq?tag=preparation-portal&amp;question=what-is-rating-and-how-is-it-updated</loc>
+
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.prepseed.com/faq?tag=preparation-portal&amp;question=why-do-i-have-lower-ranking-than-my-peer-who-has-scored-less-than-me</loc>
+
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.prepseed.com/faq?tag=preparation-portal&amp;question=why-my-rating-has-changed-without-attempting-any-test</loc>
+
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.prepseed.com/faq?tag=preparation-portal&amp;question=how-do-ranks-and-leaderboards-work</loc>
+
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.prepseed.com/faq?tag=preparation-portal&amp;question=i-am-having-an-issue-with-the-portal</loc>
+
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.prepseed.com/faq?tag=preparation-portal&amp;question=is-there-subscription-fee-for-the-preparation-portal</loc>
+
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.prepseed.com/faq?tag=preparation-portal&amp;question=do-you-disclose-student-s-information-to-other-students</loc>
+
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.prepseed.com/faq?tag=user-rating</loc>
+
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.prepseed.com/faq?tag=user-rating&amp;question=what-is-rating-and-how-is-it-updated</loc>
+
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.prepseed.com/faq?tag=user-rating&amp;question=why-do-i-have-lower-ranking-than-my-peer-who-has-scored-less-than-me</loc>
+
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.prepseed.com/faq?tag=user-rating&amp;question=why-my-rating-has-changed-without-attempting-any-test</loc>
+
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.prepseed.com/faq?tag=user-rating&amp;question=how-do-ranks-and-leaderboards-work</loc>
+
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.prepseed.com/faq?tag=leaderboard</loc>
+
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.prepseed.com/faq?tag=leaderboard&amp;question=how-do-ranks-and-leaderboards-work</loc>
+
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.prepseed.com/faq?tag=general</loc>
+
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.prepseed.com/faq?tag=general&amp;question=what-is-prepseed</loc>
+
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.prepseed.com/faq?tag=general&amp;question=does-prepseed-offer-free-solutions</loc>
+
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.prepseed.com/faq?tag=account</loc>
+
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.prepseed.com/faq?tag=account&amp;question=what-can-my-username-be</loc>
+
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.prepseed.com/faq?tag=account&amp;question=how-can-i-delete-my-account</loc>
+
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

@@ -1,0 +1,15 @@
+{
+	"background_color": "#ffffff",
+	"theme_color": "#333333",
+	"name": "Prepleaf",
+	"short_name": "Prepleaf",
+	"display": "minimal-ui",
+	"start_url": "/",
+	"icons": [
+		{
+			"src": "https://static.prepseed.com/brand/prepseed/landscape-300.png",
+			"sizes": "200x200",
+			"type": "image/png"
+		}
+	]
+}

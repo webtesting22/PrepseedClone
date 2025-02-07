@@ -1,0 +1,27 @@
+// https://material.io/resources/color/#!/?view.left=0&view.right=0&primary.color=283593
+$primary-color: #283593;
+// $primary-color: #3ec46d;
+// $primary-color: #05aada;
+$primary: $primary-color;
+
+$bulma-family-sans-serif: -apple-system, system-ui, BlinkMacSystemFont,
+	"Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$family-sans-serif: $bulma-family-sans-serif;
+
+$weight-semibold: 500;
+$title-weight: $weight-semibold;
+$family-primary: $family-sans-serif;
+$family-secondary: "Ubuntu", $bulma-family-sans-serif;
+$title-family: $family-secondary;
+$radius-small: 4px;
+$radius: 6px;
+$radius-large: 8px;
+$border-color: #ededed;
+$footer-background-color: #f8f9fa;
+$footer-padding: 0 1.5rem 0rem;
+
+$unit: 8px;
+$button-height-md: 36px;
+
+$border-radius-md: 8px;
+$navbar-divider-height: 1px;
