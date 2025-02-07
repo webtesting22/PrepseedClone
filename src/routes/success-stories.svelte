@@ -1,25 +1,9 @@
-<style lang="scss">
-@import "../styles/variables.scss";
-.success-stories-headline {
-	position: relative;
-	&:after {
-		position: absolute;
-		content: " ";
-		bottom: -3px;
-		left: 0.5%;
-		margin-left: 0;
-		width: 52%;
-		border-bottom: solid 3px lighten($primary-color, 20%);
-	}
-}
-</style>
-
 <script>
-import StudentReview from "../components/StudentReview.svelte";
-import { successStories } from "../data/students";
-import { onMount } from "svelte";
-import AOS from "aos";
-onMount(() => AOS.init());
+	import StudentReview from "../components/StudentReview.svelte";
+	import { successStories } from "../data/students";
+	import { onMount } from "svelte";
+	import AOS from "aos";
+	onMount(() => AOS.init());
 </script>
 
 <svelte:head>
@@ -36,8 +20,8 @@ onMount(() => AOS.init());
 				<div
 					class="column is-full-mobile is-half-tablet is-one-third-widescreen"
 					data-aos="fade-up"
-					data-aos-delay="{300}"
-					data-aos-duration="{1000}"
+					data-aos-delay={300}
+					data-aos-duration={1000}
 				>
 					<StudentReview {...story} />
 				</div>
@@ -45,3 +29,19 @@ onMount(() => AOS.init());
 		</div>
 	</div>
 </section>
+
+<style lang="scss">
+	@import "../styles/variables.scss";
+	.success-stories-headline {
+		position: relative;
+		&:after {
+			position: absolute;
+			content: " ";
+			bottom: -3px;
+			left: 0.5%;
+			margin-left: 0;
+			width: 52%;
+			border-bottom: solid 3px lighten($primary-color, 20%);
+		}
+	}
+</style>
